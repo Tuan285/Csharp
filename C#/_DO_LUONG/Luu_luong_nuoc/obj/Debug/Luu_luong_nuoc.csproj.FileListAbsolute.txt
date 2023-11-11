@@ -1,0 +1,15 @@
+D:\C#\Luu_luong_nuoc\bin\Debug\Luu_luong_nuoc.exe.config
+D:\C#\Luu_luong_nuoc\bin\Debug\Luu_luong_nuoc.exe
+D:\C#\Luu_luong_nuoc\bin\Debug\Luu_luong_nuoc.pdb
+D:\C#\Luu_luong_nuoc\bin\Debug\CircularProgressBar.dll
+D:\C#\Luu_luong_nuoc\bin\Debug\WinFormAnimation.dll
+D:\C#\Luu_luong_nuoc\bin\Debug\CircularProgressBar.xml
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.csproj.AssemblyReference.cache
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.csproj.SuggestedBindingRedirects.cache
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.Form1.resources
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.Properties.Resources.resources
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.csproj.GenerateResource.cache
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.csproj.CoreCompileInputs.cache
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.csproj.CopyComplete
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.exe
+D:\C#\Luu_luong_nuoc\obj\Debug\Luu_luong_nuoc.pdb

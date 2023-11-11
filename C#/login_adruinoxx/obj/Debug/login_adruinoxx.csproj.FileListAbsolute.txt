@@ -1,0 +1,11 @@
+D:\C#\login_adruinoxx\bin\Debug\login_adruinoxx.exe.config
+D:\C#\login_adruinoxx\bin\Debug\login_adruinoxx.exe
+D:\C#\login_adruinoxx\bin\Debug\login_adruinoxx.pdb
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.csproj.AssemblyReference.cache
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.csproj.SuggestedBindingRedirects.cache
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.Form1.resources
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.Properties.Resources.resources
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.csproj.GenerateResource.cache
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.csproj.CoreCompileInputs.cache
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.exe
+D:\C#\login_adruinoxx\obj\Debug\login_adruinoxx.pdb

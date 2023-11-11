@@ -1,0 +1,17 @@
+D:\C#\textBox\bin\Debug\net6.0-windows\textBox.exe
+D:\C#\textBox\bin\Debug\net6.0-windows\textBox.deps.json
+D:\C#\textBox\bin\Debug\net6.0-windows\textBox.runtimeconfig.json
+D:\C#\textBox\bin\Debug\net6.0-windows\textBox.dll
+D:\C#\textBox\bin\Debug\net6.0-windows\textBox.pdb
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.csproj.AssemblyReference.cache
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.Form1.resources
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.csproj.GenerateResource.cache
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.AssemblyInfoInputs.cache
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.AssemblyInfo.cs
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.csproj.CoreCompileInputs.cache
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.dll
+D:\C#\textBox\obj\Debug\net6.0-windows\refint\textBox.dll
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.pdb
+D:\C#\textBox\obj\Debug\net6.0-windows\textBox.genruntimeconfig.cache
+D:\C#\textBox\obj\Debug\net6.0-windows\ref\textBox.dll

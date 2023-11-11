@@ -1,0 +1,7 @@
+SOLUTION1: ESP_COM (send data temperater, humidity)
+Comment : Ctrl + K + C
+UnComment : Ctrl + K + U
+ToolBox : Ctrl + A + X
+Properties : F4
+Allign : Format - Allign
+Same Size : Format - Make same size

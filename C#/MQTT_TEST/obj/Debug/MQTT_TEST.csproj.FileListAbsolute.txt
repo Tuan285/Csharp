@@ -1,0 +1,14 @@
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.csproj.AssemblyReference.cache
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.csproj.SuggestedBindingRedirects.cache
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.Form1.resources
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.Properties.Resources.resources
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.csproj.GenerateResource.cache
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.csproj.CoreCompileInputs.cache
+D:\C#\MQTT_TEST\bin\Debug\MQTT_TEST.exe.config
+D:\C#\MQTT_TEST\bin\Debug\MQTT_TEST.exe
+D:\C#\MQTT_TEST\bin\Debug\MQTT_TEST.pdb
+D:\C#\MQTT_TEST\bin\Debug\M2Mqtt.Net.dll
+D:\C#\MQTT_TEST\bin\Debug\M2Mqtt.Net.pdb
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.csproj.CopyComplete
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.exe
+D:\C#\MQTT_TEST\obj\Debug\MQTT_TEST.pdb

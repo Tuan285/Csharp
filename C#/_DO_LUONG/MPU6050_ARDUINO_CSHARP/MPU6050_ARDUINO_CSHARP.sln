@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPU6050_ARDUINO_CSHARP", "MPU6050_ARDUINO_CSHARP.csproj", "{9DA04A21-2396-46A9-BF4F-52D852BF005A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DA04A21-2396-46A9-BF4F-52D852BF005A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DA04A21-2396-46A9-BF4F-52D852BF005A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DA04A21-2396-46A9-BF4F-52D852BF005A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DA04A21-2396-46A9-BF4F-52D852BF005A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2747E53-A182-4278-AAA5-BB9E13D87DF2}
+	EndGlobalSection
+EndGlobal

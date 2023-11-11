@@ -1,0 +1,17 @@
+D:\C#\bai1.1\bin\Debug\net6.0-windows\bai1.1.exe
+D:\C#\bai1.1\bin\Debug\net6.0-windows\bai1.1.deps.json
+D:\C#\bai1.1\bin\Debug\net6.0-windows\bai1.1.runtimeconfig.json
+D:\C#\bai1.1\bin\Debug\net6.0-windows\bai1.1.dll
+D:\C#\bai1.1\bin\Debug\net6.0-windows\bai1.1.pdb
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.csproj.AssemblyReference.cache
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1._1.Form1.resources
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.csproj.GenerateResource.cache
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.AssemblyInfoInputs.cache
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.AssemblyInfo.cs
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.csproj.CoreCompileInputs.cache
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.dll
+D:\C#\bai1.1\obj\Debug\net6.0-windows\refint\bai1.1.dll
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.pdb
+D:\C#\bai1.1\obj\Debug\net6.0-windows\bai1.1.genruntimeconfig.cache
+D:\C#\bai1.1\obj\Debug\net6.0-windows\ref\bai1.1.dll

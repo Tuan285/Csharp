@@ -1,0 +1,11 @@
+D:\C#\Line_Chart\bin\Debug\Line_Chart.exe.config
+D:\C#\Line_Chart\bin\Debug\Line_Chart.exe
+D:\C#\Line_Chart\bin\Debug\Line_Chart.pdb
+D:\C#\Line_Chart\obj\Debug\Line_Chart.csproj.AssemblyReference.cache
+D:\C#\Line_Chart\obj\Debug\Line_Chart.csproj.SuggestedBindingRedirects.cache
+D:\C#\Line_Chart\obj\Debug\Line_Chart.Form1.resources
+D:\C#\Line_Chart\obj\Debug\Line_Chart.Properties.Resources.resources
+D:\C#\Line_Chart\obj\Debug\Line_Chart.csproj.GenerateResource.cache
+D:\C#\Line_Chart\obj\Debug\Line_Chart.csproj.CoreCompileInputs.cache
+D:\C#\Line_Chart\obj\Debug\Line_Chart.exe
+D:\C#\Line_Chart\obj\Debug\Line_Chart.pdb

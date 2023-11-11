@@ -1,0 +1,11 @@
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\bin\Debug\tinh_tien_da_khoa.exe.config
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\bin\Debug\tinh_tien_da_khoa.exe
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\bin\Debug\tinh_tien_da_khoa.pdb
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.csproj.AssemblyReference.cache
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.csproj.SuggestedBindingRedirects.cache
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.Form1.resources
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.Properties.Resources.resources
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.csproj.GenerateResource.cache
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.csproj.CoreCompileInputs.cache
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.exe
+D:\C#\tinh_tien_da_khoa\tinh_tien_da_khoa\obj\Debug\tinh_tien_da_khoa.pdb

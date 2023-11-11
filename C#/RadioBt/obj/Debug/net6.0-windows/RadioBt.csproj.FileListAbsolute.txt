@@ -1,0 +1,17 @@
+D:\C#\RadioBt\bin\Debug\net6.0-windows\RadioBt.exe
+D:\C#\RadioBt\bin\Debug\net6.0-windows\RadioBt.deps.json
+D:\C#\RadioBt\bin\Debug\net6.0-windows\RadioBt.runtimeconfig.json
+D:\C#\RadioBt\bin\Debug\net6.0-windows\RadioBt.dll
+D:\C#\RadioBt\bin\Debug\net6.0-windows\RadioBt.pdb
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.csproj.AssemblyReference.cache
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.Form1.resources
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.csproj.GenerateResource.cache
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.AssemblyInfoInputs.cache
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.AssemblyInfo.cs
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.csproj.CoreCompileInputs.cache
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.dll
+D:\C#\RadioBt\obj\Debug\net6.0-windows\refint\RadioBt.dll
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.pdb
+D:\C#\RadioBt\obj\Debug\net6.0-windows\RadioBt.genruntimeconfig.cache
+D:\C#\RadioBt\obj\Debug\net6.0-windows\ref\RadioBt.dll

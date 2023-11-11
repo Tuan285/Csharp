@@ -1,0 +1,15 @@
+D:\C#\GY68_CSHARP\bin\Debug\GY68_CSHARP.exe.config
+D:\C#\GY68_CSHARP\bin\Debug\GY68_CSHARP.exe
+D:\C#\GY68_CSHARP\bin\Debug\GY68_CSHARP.pdb
+D:\C#\GY68_CSHARP\bin\Debug\CircularProgressBar.dll
+D:\C#\GY68_CSHARP\bin\Debug\WinFormAnimation.dll
+D:\C#\GY68_CSHARP\bin\Debug\CircularProgressBar.xml
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.csproj.AssemblyReference.cache
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.csproj.SuggestedBindingRedirects.cache
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.Form1.resources
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.Properties.Resources.resources
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.csproj.GenerateResource.cache
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.csproj.CoreCompileInputs.cache
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.csproj.CopyComplete
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.exe
+D:\C#\GY68_CSHARP\obj\Debug\GY68_CSHARP.pdb
