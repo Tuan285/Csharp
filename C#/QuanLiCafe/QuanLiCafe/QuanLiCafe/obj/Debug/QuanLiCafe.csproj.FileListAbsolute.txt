@@ -12,3 +12,17 @@ D:\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.pdb
 D:\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.fTableManager.resources
 D:\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.fAccount.resources
 D:\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.fAdmin.resources
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\bin\Debug\QuanLiCafe.exe.config
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\bin\Debug\QuanLiCafe.exe
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\bin\Debug\QuanLiCafe.pdb
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.csproj.AssemblyReference.cache
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.fAccount.resources
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.fAdmin.resources
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.fLogin.resources
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.fTableManager.resources
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.Properties.Resources.resources
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.csproj.GenerateResource.cache
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.csproj.CoreCompileInputs.cache
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.exe
+D:\Csharp\C#\QuanLiCafe\QuanLiCafe\QuanLiCafe\obj\Debug\QuanLiCafe.pdb

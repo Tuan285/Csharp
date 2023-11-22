@@ -1,0 +1,190 @@
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe.config
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.pdb
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.AssemblyReference.cache
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.dangnhap.resources
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat1.resources
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat2.resources
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat3.resources
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.Properties.Resources.resources
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.exe
+C:\Users\duong\OneDrive\Tài liệu\Visual Studio 2022\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.pdb
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.AssemblyReference.cache
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.SuggestedBindingRedirects.cache
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.dangnhap.resources
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat1.resources
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat2.resources
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat3.resources
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.Properties.Resources.resources
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.GenerateResource.cache
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.CoreCompileInputs.cache
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.exe
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.pdb
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe.config
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.pdb
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\ZedGraph.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\ZedGraph.xml
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\plm12\Documents\Zalo Received Files\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.CopyComplete
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe.config
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\ZedGraph.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\ZedGraph.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.AssemblyReference.cache
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.dangnhap.resources
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat1.resources
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat2.resources
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat3.resources
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.Properties.Resources.resources
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.GenerateResource.cache
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.CoreCompileInputs.cache
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.CopyComplete
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.exe
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\Enums.NET.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\MathNet.Numerics.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.Core.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OOXML.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.Fonts.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Buffers.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Memory.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Security.AccessControl.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\Enums.NET.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\Enums.NET.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\MathNet.Numerics.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.Core.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.Core.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OOXML.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OOXML.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.Fonts.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Buffers.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Memory.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Security.AccessControl.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\duong\OneDrive\Máy tính\BTLSCADA\BTLSCADA\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe.config
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.exe
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\BTLSCADA.pdb
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\Enums.NET.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\MathNet.Numerics.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.Core.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OOXML.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.Fonts.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.ImageSharp.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Buffers.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Memory.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Numerics.Vectors.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Security.AccessControl.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Principal.Windows.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\ZedGraph.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\Enums.NET.pdb
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\Enums.NET.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\MathNet.Numerics.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.Core.pdb
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.Core.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OOXML.pdb
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OOXML.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXml4Net.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.Fonts.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\SixLabors.ImageSharp.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Buffers.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Memory.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Numerics.Vectors.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Security.AccessControl.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Security.Principal.Windows.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\ZedGraph.xml
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\de\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\es\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\fr\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\hu\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\it\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\ja\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\pt\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\ru\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\sk\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\sv\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\tr\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.AssemblyReference.cache
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.SuggestedBindingRedirects.cache
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.dangnhap.resources
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat1.resources
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat2.resources
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.giamsat3.resources
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.Properties.Resources.resources
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.GenerateResource.cache
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.CoreCompileInputs.cache
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.csproj.CopyComplete
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.exe
+D:\Csharp\C#\BTLSCADA\BTLSCADA\BTLSCADA\obj\Debug\BTLSCADA.pdb

@@ -41,5 +41,10 @@ namespace QuanLiCafe
         {
 
         }
+
+        private void dataThongKe_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
